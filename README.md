@@ -1,5 +1,4 @@
 # lusy1112lrnit.github.io
-# 3266lamluongsi.github.io
 
 ## Lâm Lương SĨ - 2011063266
 ### Email: lamluongsi@gmail.com  
